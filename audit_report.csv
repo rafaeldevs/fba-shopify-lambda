@@ -1,0 +1,7 @@
+SKU,Shopify_Quantity,Price,Status,FBA_Quantity
+ABC123,30.0,15.99,Mismatch,25.0
+DEF456,10.0,29.99,Match,10.0
+JKL333,20.0,8.99,Missing in FBA,
+LMN555,5.0,5.0,Match,5.0
+PQR000,,,Missing in Shopify,15.0
+XYZ789,5.0,10.5,Mismatch,0.0
